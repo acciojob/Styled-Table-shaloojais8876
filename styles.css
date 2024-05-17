@@ -1,1 +1,14 @@
 /* your code */
+.table{
+	border: 0px solid black;
+	border-radius: 50%;
+	font-family:Helvetica;
+border-collapse: collapse;
+    text-align: left;
+}
+.head{
+	background-color: skyblue;
+}
+.first,.second{
+	background-color: lightgray;
+}
